@@ -1,3 +1,5 @@
+# Variables are containers that are used to store data in different types.
+
 price = 10 # integer
 price = 20 # updating value
 rating = 4.2  # float
