@@ -20,5 +20,8 @@ print(character)
 character = course[:] # This prints all characters assuming 0:....
 print(character)
 
+character = course[-1:-5:-1] # For printing right to left using negative slicing
+print(character)
+
 character = course[-9:-1] # Accessing more than one characters using negative indexing
 print(character)
